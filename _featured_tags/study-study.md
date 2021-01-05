@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: EnvOps
-slug: envOps
-category: envOps
+title: Study
+slug: Study
+category: Study
 menu: false
 order: 1
 ---
