@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "에펠탑"
+title:  "Paris, France "
 date:   '2021-01-05' 
 categories: favorites 
 tags : [travel]
