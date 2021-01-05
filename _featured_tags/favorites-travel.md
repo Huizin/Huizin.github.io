@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Favorites
-slug: favorites
+title: Travel
+slug: travel
 category: favorites
 menu: false
 order: 1

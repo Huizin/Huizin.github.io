@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Statistics & R
-slug: r
-category: dev
+title: Food
+slug: food
+category: favorites
 menu: false
 order: 1
 ---

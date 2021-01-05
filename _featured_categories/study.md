@@ -3,8 +3,8 @@ layout: list
 title: Study
 slug: Study
 menu: true
-submenu: false
+submenu: true
 order: 2
 description: >
-   통계이론에 관한 글.  
+  목표 : 1일 1업로드.  
 ---
